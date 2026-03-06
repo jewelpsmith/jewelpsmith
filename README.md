@@ -1,16 +1,43 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Jewel Smith 👋</h1>
 
-<!--
-**jewelpsmith/jewelpsmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🗂️ PMP Certified Project Manager | ⚙️ Operations & Logistics | 🤖 AI & Automation Enthusiast
+  <br/>
+  📍 Palmetto, Florida
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💼 About Me
+
+I'm a detail-driven operations and logistics professional with a passion for using **AI and automation** to build smarter, faster, and more efficient systems. Recently certified in **Project Management (PMP)**, I combine traditional PM methodologies with modern AI tools to deliver results.
+
+> *"Always learning, always improving."*
+
+---
+
+## 🛠️ Tools & Skills
+
+| Category | Tools |
+|---|---|
+| Project Management | Jira, Trello, Notion |
+| Automation | Zapier, Make.com |
+| Data & Reporting | Excel, Google Sheets |
+| AI Tools | ChatGPT, Claude, NotebookLM |
+| Methodologies | Agile, Scrum, Waterfall |
+
+---
+
+## 📂 Featured Projects
+
+🔗 [PM Operations & Logistics Portfolio](#) — coming soon
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jewel--smith-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jewel-smith)
+
+---
+
+<p align="center">⭐ Open to collaborations in Operations, Logistics & AI-driven Project Management</p>
