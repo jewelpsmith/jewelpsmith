@@ -3,7 +3,7 @@
 <p align="center">
   🔐 Cybersecurity | 🗂️ PMP Certified | ⚙️ Operations & Logistics | 🤖 AI & Automation
   <br/>
-  📍 Tampa, Florida
+  📍 Palmetto, Florida
 </p>
 
 ---
